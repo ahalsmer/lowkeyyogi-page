@@ -39,15 +39,16 @@ body {
   background-color: RosyBrown;
   filter: brightness(80%); 
 }
+
 label {
   font-family: Andale Mono, monospace;
   color: white;
   position: relative;
-  left: 50%;
+  left: 44%;
 }
 #email {
   position: relative;
-  left: 50%;
+  left: 46%;
 }
 #submit {
   position: relative;
